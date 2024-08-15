@@ -1,4 +1,16 @@
 html {
-    font-size: 10px;
-
+    font-size: 20px;
+    font-family: "Edu VIC WA NT Beginner", cursive;
+    font-style: normal;
+}
+body{
+    width: 800px;
+    margin: auto;
+}
+header {
+    background-color: #9ccfe6;
+}
+header-left {
+    background-color: #ffffff;
+    border: 5px solid #000000;
 }
