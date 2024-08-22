@@ -14,7 +14,7 @@ body {
     grid-template-areas: "left top-text top-text"
 "left main right"
 "left bottom right";
-    height: 100vh;
+    height: 50vh;
 }
 header{
     display: flex;
@@ -53,6 +53,7 @@ header{
     flex-direction: row;
     justify-content: center;
     border: 2px solid black;
+    margin: 0;
     background-color: greenyellow;
 }
 .main {
@@ -62,6 +63,7 @@ header{
     justify-content: center;
     display: flex;
     flex-direction: row;
+    margin:0;
     border: 2px solid black;
 }
 .right {
@@ -81,6 +83,7 @@ header{
     flex-direction: row;
     justify-content: center;
     border: 2px solid black;
+    margin: 0;
     background-color: greenyellow;
 }
 footer {
